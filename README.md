@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jinius Ahmed</h1>
 <h3 align="center">A passionate 🌎 Web developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jiniusahmed" alt="jiniusahmed" /></a> </p>
-
 - 🔭 I’m currently working on [File management app](https://coderminhaz-react-project-05.netlify.app/)
 
 - 🌱 I’m currently learning **Node js and react js**
