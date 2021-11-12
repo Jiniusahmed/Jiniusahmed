@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://jiniusahmed.github.io/myportfollio/](https://jiniusahmed.github.io/myportfollio/)
 
-- 💬 Ask me about **javascript, react, nodejs, express js**
+- 💬 Ask me about **javascript, react js, nodejs, express js**
 
 - 📫 How to reach me **jiniusahmed68@gmail.com**
 
